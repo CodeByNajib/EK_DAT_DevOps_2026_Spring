@@ -58,6 +58,15 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
+},
+{
+    "name": "Knowledgeables",
+    "gitLinks": ["https://github.com/Knowledgeables/Knowledge"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
 }
-
 ]
