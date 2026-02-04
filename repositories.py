@@ -49,6 +49,34 @@ GROUP_REPOS = [
     "documentation": [],
     "sla": "",
 },
-
-
+{
+    "name": "BaseJumpers",
+    "gitLinks": ["https://github.com/BaseJumpers/BaseJumperSearch"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
+},
+{
+    "name": "Knowledgeables",
+    "gitLinks": ["https://github.com/Knowledgeables/Knowledge"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
+},
+{
+    "name": "team24",
+    "gitLinks": ["https://github.com/DevOps-team24/legacy-whoknows"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
+}
 ]
